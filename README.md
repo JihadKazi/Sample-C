@@ -1,7 +1,3 @@
-Here’s a concise and clean GitHub README for your code:
-
----
-
 # Grade Calculator in C
 
 A simple C program that calculates a student's grade based on their marks.
