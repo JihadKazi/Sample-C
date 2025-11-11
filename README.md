@@ -37,7 +37,3 @@ Your grade is A
 
 * Input should be an integer between 0 and 100.
 * Program prints a humorous message for failing marks.
-
----
-
-If you want, I can also make it **look more professional with badges and a cool GitHub-style layout** so it feels like a proper portfolio repo. Do you want me to do that?
